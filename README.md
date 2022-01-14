@@ -9,11 +9,6 @@ This was accomplished using an Arduino Mega microcontroller to both play the mus
 The main notable concession that was made was in the audio. 
 The song had to be played as beep tones as the arduino was not able to properly play audio files.
 
-## Imagery
-
-![boardSchematic](boardSchematic.png)
-
-
 ## Hardware Used
 
 - Arduino Mega microcontroller
@@ -55,6 +50,29 @@ the process will be the same.
  If there are no errors and the sketch successfully verifies, click the **Upload** button.
 1. Open the serial monitor located in either the **Tools** navigation menu 
 or by clicking the **Serial Monitor** magifying glass button in the far left
+
+
+## Imagery
+
+#### Project Schematic ####
+
+![boardSchematic](boardSchematic.png)
+
+#### Board Diagram ####
+
+![boardLayout](boardLayout.png)
+
+#### Finished Project ####
+
+![finishedProject](finishedProject.JPEG)
+
+#### Finished Internals ####
+
+![finishedInternals](finishedInternals.png)
+
+#### Demo ####
+
+![demo](finishedDemo.mp4)
 
 ## Roadmap
 
