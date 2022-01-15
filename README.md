@@ -54,33 +54,53 @@ or by clicking the **Serial Monitor** magifying glass button in the far left
 
 ## Imagery
 
-#### Project Schematic ####
-
-![boardSchematic](boardSchematic.png)
-
-#### Board Diagram ####
-
-![boardLayout](boardLayout.png)
-
-#### Finished Project ####
+### Finished Project ###
 
 ![finishedProject](finishedProject.JPEG)
 
-#### Finished Internals ####
+### Project Schematic ###
 
-![finishedInternals](finishedInternals.png)
+![boardSchematic](boardSchematic.png)
 
-#### Demo ####
+### Board Diagram ###
 
+![boardLayout](boardLayout.png)
+
+
+### Finished Internals ###
+
+![finishedInternals](finishedInternals.jpg)
+
+### Demo ### 
+
+*(raw file will not run on github)*
 ![demo](finishedDemo.mp4)
 
 ## Roadmap
 
+At this time, there is no active work being done on this project. 
+That being said, there are a few different things that may be explored in the future.
 
+- rewrite/refinish the project sketch
+- add a dedicated audio amp and an SD card reader to actually play the song instead of beep tones
+- create a different version using different songs
+- adapt the project to work with any song
+
+Some of these are much larger undertaking than others but this project can work as a basis for later work.
 
 ## Authors & Acknowledgments
 
+All the code, construction, and debugging done by Jason Hampshire
+
+Thanks to [Tate's Laser Engraving](https://business.facebook.com/tateslaser/) 
+for the faceplate of the music box
+
+Special thanks also to Maddie, for whom this project was made for
+
+The song is owned by Taylor Swift;
+ I make no claims to it and this project is not intended for profit or commerical use.
 
 
 ## Project Status
 
+This project is currently **Closed** with the potential to be reopend at a later date
