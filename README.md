@@ -73,7 +73,8 @@ or by clicking the **Serial Monitor** magifying glass button in the far left
 
 ### Demo ### 
 
-*(raw file will not run on github)*
+https://user-images.githubusercontent.com/97221507/150666107-9c51fa00-3f60-487e-b866-e35694e0d3b7.mp4
+
 ![demo](finishedDemo.mp4)
 
 ## Roadmap
