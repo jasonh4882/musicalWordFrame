@@ -2,12 +2,7 @@
 
 ## Description
 
-This project was made as a Christmas gift for Christmas 2020.
-The goal was to create a picture frame box that would play the song *"Paper Rings"* by Taylor Swift
-and light up the lyrics as they were sung. 
-This was accomplished using an Arduino Mega microcontroller to both play the music and control the LEDs.
-The main notable concession that was made was in the audio. 
-The song had to be played as beep tones as the arduino was not able to properly play audio files.
+This project was made as a Christmas gift for Christmas 2020. The goal was to create a picture frame box that would play the song *"Paper Rings"* by Taylor Swift and light up the lyrics as they were sung. This was accomplished using an Arduino Mega microcontroller to both play the music and control th LEDs. The main notable concession that was made was in the audio. The song had to be played as beep tones as the arduino was not able to properly play audio files.
 
 ## Hardware Used
 
@@ -21,21 +16,13 @@ The song had to be played as beep tones as the arduino was not able to properly 
     
 ## Software
 
-Unfortunatley, the final version of the sketch has been lost.
-The laptop that was used to write the program was wiped; 
-only an 8 hour behind backup (*Xmas2020v1.ino*) now exists. 
-While this backup is incomplete, it still shows the underlying algorithm that was used. 
-The arduino IDE was used to write and upload the cketch to an Arduino Mega via a USB connection.
-The Arduino IDE can be found on the official
-[Arduino website](https://www.arduino.cc/en/software "Arduino IDE Download page").
-
-Fortunatley, the final sketch still exists in the finished project. 
-Unfortunatley, this also means that it is not possible to replecate or make any changes to the project.
+Unfortunately, the final version of the sketch has been lost. The laptop that was used to write the program was wiped; only an 8 hour behind backup (*Xmas2020v1.ino*) now exists. While this backup is incomplete, it still shows the underlying algorithm that was used. The arduino IDE was used to write and upload the sketch to an Arduino Mega via a USB connection. The Arduino IDE can be found on the official [Arduino website](https://www.arduino.cc/en/software "Arduino IDE Download page").  
+Fortunately, the final sketch still exists in the finished project.  Unfortunately, this also means that it is not possible to replicate or make any changes to the project.
 
 ## Installation
 
 As mentioned in the previous section; since the final sketch file was lost, 
-there is currently no way to replecate the end result of this project. 
+there is currently no way to replicate the end result of this project. 
 The backup can be uploaded and if this project gets reworked at a later date, 
 the process will be the same.
 
@@ -49,7 +36,7 @@ the process will be the same.
 1. Click the **Verify** checkmark button located under **File**.
  If there are no errors and the sketch successfully verifies, click the **Upload** button.
 1. Open the serial monitor located in either the **Tools** navigation menu 
-or by clicking the **Serial Monitor** magifying glass button in the far left
+or by clicking the **Serial Monitor** magnifying glass button in the far left
 
 
 ## Imagery
@@ -93,15 +80,13 @@ Some of these are much larger undertaking than others but this project can work 
 
 All the code, construction, and debugging done by Jason Hampshire
 
-Thanks to [Tate's Laser Engraving](https://business.facebook.com/tateslaser/) 
-for the faceplate of the music box
+Thanks to [Tate's Laser Engraving](https://business.facebook.com/tateslaser/) for the faceplate of the music box
 
 Special thanks also to Maddie, for whom this project was made for
 
-The song is owned by Taylor Swift;
- I make no claims to it and this project is not intended for profit or commerical use.
+The song is owned by Taylor Swift; I make no claims to it and this project is not intended for profit or commercial use.
 
 
 ## Project Status
 
-This project is currently **Closed** with the potential to be reopend at a later date
+This project is currently **Closed** with the potential to be reopened  at a later date
